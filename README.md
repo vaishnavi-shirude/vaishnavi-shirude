@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Mukund Ahire
+### 👋 Hi there, I'm  Vaishnavi Shirude
 
 🚀 Aspiring AI Engineer | 💻 Full Stack Developer | 🎯 Problem Solver
 
@@ -23,9 +23,9 @@ I'm passionate about building intelligent systems that solve real-world problems
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/mukund-ahire)
-- 🌍 [Portfolio](https://mukund-ahire.github.io/Portfolio-Website/)
-- 📧 Email: mukundahire.work@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/vaishnavi-shirude-223902317)
+- 🌍 [Portfolio]()
+- 📧 Email: vaishavishirude52@gmail.com
 
 ---
 
