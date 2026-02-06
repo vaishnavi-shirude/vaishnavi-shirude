@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Hi there, I'm Mukund Ahire
 
-<!--
-**vaishnavi-shirude/vaishnavi-shirude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI Engineer | 💻 Full Stack Developer | 🎯 Problem Solver
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent systems that solve real-world problems. I love working on data-driven projects, crafting clean UIs, and learning through hands-on experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+- 💡 Languages: `Python`, `JavaScript`, `HTML`, `CSS`, `Java`
+- 🧠 AI/ML: `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, `OpenCV`
+- 🌐 Web Dev: `React`, `Node.js`, `Express`, `Firebase`, `MongoDB`
+- ☁️ Cloud & Tools: `Google Cloud`, `Git`, `GitHub`, `VS Code`, `Jupyter`
+
+---
+
+### 📈 What I’m Working On
+- 🤖 AI-based urban intelligence platform (CitySense 🌆)
+- 🎯 Building ML models for predictive analytics
+- 🌐 Designing personal portfolio and microservices with React + Firebase
+
+---
+
+### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukund-ahire)
+- 🌍 [Portfolio](https://mukund-ahire.github.io/Portfolio-Website/)
+- 📧 Email: mukundahire.work@gmail.com
+
+---
+
+> 🧠 *Learning by building. Creating by experimenting.*  
