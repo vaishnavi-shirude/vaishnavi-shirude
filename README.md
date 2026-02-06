@@ -23,7 +23,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-shirude-223902317)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-shirude)
 - 🌍 [Portfolio]()
 - 📧 Email: vaishavishirude52@gmail.com
 
