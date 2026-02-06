@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm  Vaishnavi Shirude
 
-🚀 Aspiring AI Engineer | 💻 Full Stack Developer | 🎯 Problem Solver
+🚀 Aspiring Data Scientist | 💻 Java Developer | 🎯 Problem Solver
 
 I'm passionate about building intelligent systems that solve real-world problems. I love working on data-driven projects, crafting clean UIs, and learning through hands-on experimentation.
 
